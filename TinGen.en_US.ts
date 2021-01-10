@@ -84,7 +84,7 @@
         <translation>Public Key</translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="84"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="96"/>
         <source>main.generate_btn</source>
         <translation>Generate</translation>
     </message>
