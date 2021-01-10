@@ -4,43 +4,191 @@
 <context>
     <name>CentralWidget</name>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="18"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="22"/>
         <source>main.google_auth_group</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="25"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="29"/>
         <source>main.auth_user_btn</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="29"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="33"/>
         <source>main.revoke_user_btn</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="32"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="36"/>
         <source>main.folder_select_group</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="36"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="40"/>
         <source>main.select_folders_btn</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="39"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="43"/>
         <source>main.index_options_group</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="43"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="49"/>
+        <source>main.index_options_group.zstd_compress_btn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../AppWidgets/centralwidget.cpp" line="50"/>
+        <source>main.index_options_group.zlib_compress_btn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../AppWidgets/centralwidget.cpp" line="51"/>
+        <source>main.index_options_group.no_compress_btn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../AppWidgets/centralwidget.cpp" line="58"/>
+        <source>main.index_options_group.success</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../AppWidgets/centralwidget.cpp" line="65"/>
+        <source>main.index_options_group.title_id_filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../AppWidgets/centralwidget.cpp" line="66"/>
+        <source>main.index_options_group.extension_filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../AppWidgets/centralwidget.cpp" line="74"/>
+        <source>main.index_options_group.select_output_btn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../AppWidgets/centralwidget.cpp" line="80"/>
         <source>main.encrypt_index_options_group</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="47"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="84"/>
         <source>main.generate_btn</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DigitalSignaturePage</name>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/DigitalSignaturePage.qml" line="25"/>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/DigitalSignaturePage.qml" line="45"/>
+        <source>Private key:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/DigitalSignaturePage.qml" line="25"/>
+        <source>Public key:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/DigitalSignaturePage.qml" line="26"/>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/DigitalSignaturePage.qml" line="53"/>
+        <source>Text to sign:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/DigitalSignaturePage.qml" line="26"/>
+        <source>Text to check sign:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/DigitalSignaturePage.qml" line="27"/>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/DigitalSignaturePage.qml" line="61"/>
+        <source>Signed text:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/DigitalSignaturePage.qml" line="27"/>
+        <source>Result:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/DigitalSignaturePage.qml" line="34"/>
+        <source>Sign message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/DigitalSignaturePage.qml" line="35"/>
+        <source>Check sign</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>EncryptDecryptPage</name>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/EncryptDecryptPage.qml" line="25"/>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/EncryptDecryptPage.qml" line="45"/>
+        <source>Public key:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/EncryptDecryptPage.qml" line="25"/>
+        <source>Private key:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/EncryptDecryptPage.qml" line="26"/>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/EncryptDecryptPage.qml" line="53"/>
+        <source>Text to encrypt:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/EncryptDecryptPage.qml" line="26"/>
+        <source>Text to decrypt:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/EncryptDecryptPage.qml" line="27"/>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/EncryptDecryptPage.qml" line="61"/>
+        <source>Encrypted text:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/EncryptDecryptPage.qml" line="27"/>
+        <source>Decrypted text:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/EncryptDecryptPage.qml" line="34"/>
+        <source>Encrypt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/EncryptDecryptPage.qml" line="35"/>
+        <source>Decrypt</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KeysGeneratePage</name>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/KeysGeneratePage.qml" line="36"/>
+        <source>Public key:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/KeysGeneratePage.qml" line="46"/>
+        <source>Private key:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>LabledText</name>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/modules/LabledText.qml" line="13"/>
+        <source>Label</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -81,6 +229,42 @@
     <message>
         <location filename="../AppWidgets/mainwindow.cpp" line="35"/>
         <source>header.help.about.text</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>RsaGenModule</name>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/modules/RsaGenModule.qml" line="22"/>
+        <source>RSA size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/modules/RsaGenModule.qml" line="36"/>
+        <source>Generate</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/main.qml" line="18"/>
+        <source>Qt-Secret-GUI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/main.qml" line="51"/>
+        <source>Keys generate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/main.qml" line="54"/>
+        <source>Encryption and decryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Qt-Secret/Qt-Secret-GUI/main.qml" line="57"/>
+        <source>Digital signature</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
