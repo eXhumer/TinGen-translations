@@ -4,89 +4,94 @@
 <context>
     <name>CentralWidget</name>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="24"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="25"/>
         <source>main.google_auth_group</source>
         <translation>Google User Authorization</translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="32"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="33"/>
         <source>main.auth_user_btn</source>
         <translation>Authorize</translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="35"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="36"/>
         <source>main.revoke_user_btn</source>
         <translation>Revoke</translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="39"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="40"/>
         <source>main.folder_select_group</source>
         <translation>Google Drive Folder Scan Selection</translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="43"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="44"/>
         <source>main.select_folders_btn</source>
         <translation>Select Google Drive Folders To Scan</translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="47"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="48"/>
         <source>main.index_options_group</source>
         <translation>Index Options</translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="53"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="54"/>
         <source>main.index_options_group.zstd_compress_btn</source>
         <translation>zstd</translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="54"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="55"/>
         <source>main.index_options_group.zlib_compress_btn</source>
         <translation>zlib</translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="55"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="56"/>
         <source>main.index_options_group.no_compress_btn</source>
         <translation>No Compression</translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="62"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="63"/>
         <source>main.index_options_group.success</source>
         <translation>Success?</translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="69"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="71"/>
         <source>main.index_options_group.title_id_filter</source>
         <translation>Title ID Filter</translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="70"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="72"/>
         <source>main.index_options_group.extension_filter</source>
         <translation>NSW Extension Filter</translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="78"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="80"/>
         <source>main.index_options_group.select_output_btn</source>
         <translation>Index Output Path</translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="84"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="86"/>
         <source>main.encrypt_index_options_group</source>
         <translation>Encryption Options</translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="89"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="91"/>
         <source>main.encrypt_index_options_group.encrypt_index</source>
         <translation>Encrypt Index?</translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="95"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="97"/>
         <source>main.encrypt_index_options_group.select_key_btn</source>
         <translation>Public Key</translation>
     </message>
     <message>
-        <location filename="../AppWidgets/centralwidget.cpp" line="100"/>
+        <location filename="../AppWidgets/centralwidget.cpp" line="102"/>
         <source>main.generate_btn</source>
         <translation>Generate</translation>
+    </message>
+    <message>
+        <location filename="../AppWidgets/centralwidget.cpp" line="122"/>
+        <source>main.logged_in_as</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
