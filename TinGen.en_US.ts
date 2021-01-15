@@ -92,12 +92,12 @@
         <location filename="../AppWidgets/centralwidget.cpp" line="175"/>
         <location filename="../AppWidgets/centralwidget.cpp" line="219"/>
         <source>main.logged_in_as</source>
-        <translation type="unfinished"></translation>
+        <translation>Logged in as</translation>
     </message>
     <message>
         <location filename="../AppWidgets/centralwidget.cpp" line="210"/>
         <source>main.not_authorized</source>
-        <translation type="unfinished"></translation>
+        <translation>Not Authorized</translation>
     </message>
 </context>
 <context>
@@ -105,7 +105,7 @@
     <message>
         <location filename="../AppWidgets/googlefsmodel.cpp" line="28"/>
         <source>model.title</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../AppWidgets/googlefsmodel.cpp" line="29"/>
