@@ -101,19 +101,6 @@
     </message>
 </context>
 <context>
-    <name>GoogleFolderSelectorModel</name>
-    <message>
-        <location filename="../AppWidgets/googlefolderselectormodel.cpp" line="28"/>
-        <source>model.name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../AppWidgets/googlefolderselectormodel.cpp" line="29"/>
-        <source>model.summary</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>GoogleFolderSelectorWidget</name>
     <message>
         <location filename="../AppWidgets/googlefolderselectorwidget.cpp" line="57"/>
